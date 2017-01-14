@@ -2,9 +2,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Hello World</title>
+    <title><?php echo $ptitle; ?></title>
   </head>
   <body>
-
-  </body>
-</html>
